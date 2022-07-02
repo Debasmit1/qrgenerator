@@ -4,6 +4,6 @@
     "authors": "author",
     "version": "1.0.0",
     "main": "pathToMain",
-    "build":"parcel build index.html"
+    "build": "npx parcel build index.html"
 }
 }
