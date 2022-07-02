@@ -2,7 +2,7 @@
 Quick Response Generator
 
 # QRCodes
-A QR Code Generator and! Generat QR codes real quick!
+A QR Code Generator ! Generate QR codes real quick!
 
 ## Tech Stack
 <pre>
